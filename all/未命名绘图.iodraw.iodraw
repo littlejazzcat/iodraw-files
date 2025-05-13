@@ -63,7 +63,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_09H7B_4sXbN0ZRrgTIa-25" value="B枪充电中" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_09H7B_4sXbN0ZRrgTIa-25" value="B枪不在&lt;div&gt;功率分配&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_09H7B_4sXbN0ZRrgTIa-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_09H7B_4sXbN0ZRrgTIa-27" target="_09H7B_4sXbN0ZRrgTIa-29">
@@ -101,7 +101,7 @@
           <mxGeometry x="350" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_09H7B_4sXbN0ZRrgTIa-37" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="378" width="40" height="30" as="geometry" />
+          <mxGeometry x="374" y="380" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
