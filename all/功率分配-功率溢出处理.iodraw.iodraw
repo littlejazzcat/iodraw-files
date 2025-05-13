@@ -19,8 +19,8 @@
         <mxCell id="sxoCyRtmRGFFkfU_FidX-2" value="功率溢出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sxoCyRtmRGFFkfU_FidX-4" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="sxoCyRtmRGFFkfU_FidX-4" value="另一把枪不在分配状态" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
