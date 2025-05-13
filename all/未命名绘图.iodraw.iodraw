@@ -77,6 +77,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="_09H7B_4sXbN0ZRrgTIa-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="_09H7B_4sXbN0ZRrgTIa-35">
+          <mxGeometry x="-0.1054" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_09H7B_4sXbN0ZRrgTIa-27" value="A功率分配&lt;div&gt;接触器占用&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="310" width="100" height="80" as="geometry" />
         </mxCell>
