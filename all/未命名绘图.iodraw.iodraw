@@ -100,6 +100,9 @@
         <mxCell id="_09H7B_4sXbN0ZRrgTIa-33" value="A枪功率分配" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="585" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_09H7B_4sXbN0ZRrgTIa-37" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="378" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
