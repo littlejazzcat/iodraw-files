@@ -25,7 +25,7 @@
         <mxCell id="vYcUfczOwzFTgRyH2GBd-4" value="功率可分配状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vYcUfczOwzFTgRyH2GBd-6" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-6" value="B枪不在启动中或测试输出模式；&lt;div&gt;B枪不在充完电2分钟内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="380" width="320" height="110" as="geometry" />
         </mxCell>
       </root>
