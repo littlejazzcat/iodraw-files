@@ -7,8 +7,14 @@
         <mxCell id="vYcUfczOwzFTgRyH2GBd-0" value="功率分配-功率增加处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="10" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-1" target="vYcUfczOwzFTgRyH2GBd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-1" value="增加处理空闲&lt;div&gt;状态&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-2" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="150" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
