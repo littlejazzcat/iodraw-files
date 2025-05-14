@@ -43,6 +43,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-6" value="1、B枪不在启动中或测试输出模式；&lt;div&gt;2、B枪不在充完电2分钟内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="350" width="240" height="90" as="geometry" />
         </mxCell>
