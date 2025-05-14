@@ -44,7 +44,7 @@
         <mxCell id="vYcUfczOwzFTgRyH2GBd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-8" target="vYcUfczOwzFTgRyH2GBd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vYcUfczOwzFTgRyH2GBd-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vYcUfczOwzFTgRyH2GBd-11">
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-23" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vYcUfczOwzFTgRyH2GBd-11">
           <mxGeometry x="-0.1" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
