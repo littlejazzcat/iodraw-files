@@ -49,8 +49,14 @@
         <mxCell id="vYcUfczOwzFTgRyH2GBd-12" value="功率新加入模块状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-14" target="vYcUfczOwzFTgRyH2GBd-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-14" value="新加入模块右侧接触器断开；&lt;div&gt;10秒超时报故障&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-16" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
