@@ -88,13 +88,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-14" value="新加入模块右侧接触器断开；&lt;div&gt;10秒超时报故障&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-16" target="vYcUfczOwzFTgRyH2GBd-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-16" value="1、新加入模块按实际输出电压、电流1A启动；&lt;div&gt;2、闭合新加入模块左功率接触器，2秒超时报故障&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="1000" width="130" height="80" as="geometry" />
+          <mxGeometry x="325" y="990" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-18" target="vYcUfczOwzFTgRyH2GBd-1">
           <mxGeometry relative="1" as="geometry">
