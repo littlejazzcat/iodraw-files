@@ -70,8 +70,14 @@
         <mxCell id="sxoCyRtmRGFFkfU_FidX-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sxoCyRtmRGFFkfU_FidX-6" target="sxoCyRtmRGFFkfU_FidX-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sxoCyRtmRGFFkfU_FidX-19" value="&#xa;&#xa;&lt;span class=&quot;fontstyle0&quot;&gt;1.等待减掉的最外侧一级电&lt;br&gt;流小于5A&lt;br&gt;2.发送模块电流为1A&lt;br&gt;3.操作成功或超时7秒进入&lt;br&gt;是断开释放阶段&lt;/span&gt; &#xa;&lt;br style=&quot;font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;&quot;&gt;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="770" width="230" height="90" as="geometry" />
+        <mxCell id="sxoCyRtmRGFFkfU_FidX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sxoCyRtmRGFFkfU_FidX-19" target="sxoCyRtmRGFFkfU_FidX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sxoCyRtmRGFFkfU_FidX-19" value="&lt;br&gt;&lt;br&gt;&lt;span class=&quot;fontstyle0&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;fontstyle0&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;fontstyle0&quot;&gt;1.等待减掉的最外侧一级电&lt;br&gt;流小于5A&lt;br&gt;2.发送模块电流为1A&lt;br&gt;3.操作成功或超时7秒进入&lt;br&gt;是断开释放阶段&lt;/span&gt; &lt;br&gt;&lt;br style=&quot;font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="760" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sxoCyRtmRGFFkfU_FidX-21" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
