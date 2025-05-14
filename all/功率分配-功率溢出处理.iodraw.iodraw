@@ -17,7 +17,7 @@
           <mxGeometry x="122.5" y="110" width="115" height="55.71" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-1" value="功率溢出处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1" vertex="1" parent="sxoCyRtmRGFFkfU_FidX-16">
-          <mxGeometry x="60.00000000000001" width="160" height="40" as="geometry" />
+          <mxGeometry x="110" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sxoCyRtmRGFFkfU_FidX-16" source="sxoCyRtmRGFFkfU_FidX-2" target="sxoCyRtmRGFFkfU_FidX-4">
           <mxGeometry relative="1" as="geometry" />
