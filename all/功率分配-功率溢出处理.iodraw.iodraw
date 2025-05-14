@@ -59,10 +59,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-16" value="1、新加入模块按实际输出电压、电流1A启动；&lt;div&gt;2、闭合新加入模块左功率接触器，2秒超时报故障&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="930" width="130" height="80" as="geometry" />
+          <mxGeometry x="325" y="930" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vYcUfczOwzFTgRyH2GBd-18" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1040" width="120" height="60" as="geometry" />
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-18" value="1、增加该枪模块掩码&lt;div&gt;2、增加该枪模块数量&lt;/div&gt;&lt;div&gt;3、增加该枪模块级数&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
