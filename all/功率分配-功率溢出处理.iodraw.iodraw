@@ -70,11 +70,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vYcUfczOwzFTgRyH2GBd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="665" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-10" value="1、B枪功率不满足&lt;div&gt;2、有多余模块&lt;/div&gt;&lt;div&gt;3、本枪已分配级数不足一半&lt;/div&gt;&lt;div&gt;或&lt;/div&gt;&lt;div&gt;1、B枪功率满足&lt;/div&gt;&lt;div&gt;2、有剩余模块&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="590" width="220" height="130" as="geometry" />
         </mxCell>
