@@ -33,8 +33,13 @@
         <mxCell id="vYcUfczOwzFTgRyH2GBd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-6" target="vYcUfczOwzFTgRyH2GBd-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-22" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vYcUfczOwzFTgRyH2GBd-9">
+          <mxGeometry x="0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-6" value="1、B枪不在启动中或测试输出模式；&lt;div&gt;2、B枪不在充完电2分钟内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="360" width="240" height="90" as="geometry" />
+          <mxGeometry x="270" y="350" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-8" target="vYcUfczOwzFTgRyH2GBd-10">
           <mxGeometry relative="1" as="geometry" />
