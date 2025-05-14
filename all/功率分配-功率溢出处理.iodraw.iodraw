@@ -8,22 +8,22 @@
           <mxGeometry x="520" y="40" width="290" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-16" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" width="280" height="420" as="geometry" />
+          <mxGeometry x="210" width="350" height="510" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sxoCyRtmRGFFkfU_FidX-16" source="sxoCyRtmRGFFkfU_FidX-0" target="sxoCyRtmRGFFkfU_FidX-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-0" value="空闲状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="sxoCyRtmRGFFkfU_FidX-16">
-          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="72.85714285714288" width="150" height="72.85714285714288" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-1" value="功率溢出处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1" vertex="1" parent="sxoCyRtmRGFFkfU_FidX-16">
-          <mxGeometry x="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="50" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sxoCyRtmRGFFkfU_FidX-16" source="sxoCyRtmRGFFkfU_FidX-2" target="sxoCyRtmRGFFkfU_FidX-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-2" value="功率溢出" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="sxoCyRtmRGFFkfU_FidX-16">
-          <mxGeometry x="60" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="194.2857142857143" width="150" height="72.85714285714288" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sxoCyRtmRGFFkfU_FidX-16" source="sxoCyRtmRGFFkfU_FidX-4" target="sxoCyRtmRGFFkfU_FidX-6">
           <mxGeometry relative="1" as="geometry" />
@@ -36,8 +36,8 @@
         <mxCell id="sxoCyRtmRGFFkfU_FidX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sxoCyRtmRGFFkfU_FidX-16" source="sxoCyRtmRGFFkfU_FidX-4" target="sxoCyRtmRGFFkfU_FidX-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint y="285" />
-              <mxPoint y="90" />
+              <mxPoint y="346.07142857142867" />
+              <mxPoint y="109.2857142857143" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -47,19 +47,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-4" value="B枪不&lt;span style=&quot;background-color: initial;&quot;&gt;在&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;分配状态&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="sxoCyRtmRGFFkfU_FidX-16">
-          <mxGeometry x="70" y="240" width="100" height="90" as="geometry" />
+          <mxGeometry x="87.5" y="291.4285714285715" width="125" height="109.2857142857143" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-6" value="A枪置为功率释放处理状态；&lt;div&gt;减少溢出模块&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="sxoCyRtmRGFFkfU_FidX-16">
-          <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="437.1428571428572" width="150" height="72.85714285714288" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="sxoCyRtmRGFFkfU_FidX-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="140" as="sourcePoint" />
-            <mxPoint x="200" y="140" as="targetPoint" />
+            <mxPoint x="150" y="170.00000000000003" as="sourcePoint" />
+            <mxPoint x="250" y="170.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-10" value="溢出判定" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sxoCyRtmRGFFkfU_FidX-16">
-          <mxGeometry x="200" y="110" width="80" height="60" as="geometry" />
+          <mxGeometry x="250" y="133.57142857142858" width="100" height="72.85714285714288" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
