@@ -43,8 +43,14 @@
         <mxCell id="vYcUfczOwzFTgRyH2GBd-10" value="1、B枪功率不满足&lt;div&gt;2、有多余模块&lt;/div&gt;&lt;div&gt;3、本枪已分配级数不足一半&lt;/div&gt;&lt;div&gt;或&lt;/div&gt;&lt;div&gt;1、B枪功率满足&lt;/div&gt;&lt;div&gt;2、有剩余模块&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="580" width="220" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="vYcUfczOwzFTgRyH2GBd-12" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="855" width="120" height="60" as="geometry" />
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-12" target="vYcUfczOwzFTgRyH2GBd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-12" value="功率新加入模块状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-14" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
