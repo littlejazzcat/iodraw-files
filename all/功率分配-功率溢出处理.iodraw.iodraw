@@ -16,7 +16,7 @@
         <mxCell id="vYcUfczOwzFTgRyH2GBd-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-2" target="vYcUfczOwzFTgRyH2GBd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vYcUfczOwzFTgRyH2GBd-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vYcUfczOwzFTgRyH2GBd-5">
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vYcUfczOwzFTgRyH2GBd-5">
           <mxGeometry x="0.32" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="-13" as="offset" />
           </mxGeometry>
@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-4" value="功率可分配状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-6" target="vYcUfczOwzFTgRyH2GBd-8">
           <mxGeometry relative="1" as="geometry" />
