@@ -75,7 +75,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vYcUfczOwzFTgRyH2GBd-8" value="另一把枪&lt;div&gt;充电中&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="vYcUfczOwzFTgRyH2GBd-34">
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-8" value="另一把枪&lt;div&gt;（B枪）充电中&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="vYcUfczOwzFTgRyH2GBd-34">
           <mxGeometry x="198.19148936170208" y="612" width="132.12765957446805" height="106.43478260869567" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vYcUfczOwzFTgRyH2GBd-34" source="vYcUfczOwzFTgRyH2GBd-10" target="vYcUfczOwzFTgRyH2GBd-12">
