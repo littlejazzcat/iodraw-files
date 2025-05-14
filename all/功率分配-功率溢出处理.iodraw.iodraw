@@ -21,6 +21,11 @@
             <mxPoint x="-2" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-2" value="1、该枪功率不满足&lt;div&gt;2、另一把枪不在分配中&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="150" width="200" height="80" as="geometry" />
         </mxCell>
@@ -55,6 +60,11 @@
         <mxCell id="vYcUfczOwzFTgRyH2GBd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-10" target="vYcUfczOwzFTgRyH2GBd-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-24" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vYcUfczOwzFTgRyH2GBd-13">
+          <mxGeometry x="0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-10" value="1、B枪功率不满足&lt;div&gt;2、有多余模块&lt;/div&gt;&lt;div&gt;3、本枪已分配级数不足一半&lt;/div&gt;&lt;div&gt;或&lt;/div&gt;&lt;div&gt;1、B枪功率满足&lt;/div&gt;&lt;div&gt;2、有剩余模块&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="590" width="220" height="150" as="geometry" />
         </mxCell>
@@ -62,7 +72,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-12" value="功率新加入模块状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-14" target="vYcUfczOwzFTgRyH2GBd-16">
           <mxGeometry relative="1" as="geometry" />
