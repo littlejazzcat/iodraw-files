@@ -82,7 +82,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-12" value="&lt;span class=&quot;fontstyle0&quot;&gt;1.查找新加入模块的位置&lt;br&gt;2.断开新加入模块的右侧&lt;br&gt;继电器&lt;br&gt;3.状态转变为新加入模块&lt;br&gt;状态&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="780" width="170" height="60" as="geometry" />
+          <mxGeometry x="305" y="760" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-14" target="vYcUfczOwzFTgRyH2GBd-16">
           <mxGeometry relative="1" as="geometry" />
