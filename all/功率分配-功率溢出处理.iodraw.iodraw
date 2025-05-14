@@ -70,6 +70,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-10" value="1、B枪功率不满足&lt;div&gt;2、有多余模块&lt;/div&gt;&lt;div&gt;3、本枪已分配级数不足一半&lt;/div&gt;&lt;div&gt;或&lt;/div&gt;&lt;div&gt;1、B枪功率满足&lt;/div&gt;&lt;div&gt;2、有剩余模块&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="590" width="220" height="150" as="geometry" />
         </mxCell>
@@ -77,19 +82,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-12" value="功率新加入模块状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-14" target="vYcUfczOwzFTgRyH2GBd-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-14" value="新加入模块右侧接触器断开；&lt;div&gt;10秒超时报故障&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-16" target="vYcUfczOwzFTgRyH2GBd-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-16" value="1、新加入模块按实际输出电压、电流1A启动；&lt;div&gt;2、闭合新加入模块左功率接触器，2秒超时报故障&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="930" width="130" height="80" as="geometry" />
+          <mxGeometry x="325" y="1000" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-18" target="vYcUfczOwzFTgRyH2GBd-1">
           <mxGeometry relative="1" as="geometry">
@@ -100,7 +105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-18" value="1、增加该枪模块掩码&lt;div&gt;2、增加该枪模块数量&lt;/div&gt;&lt;div&gt;3、增加该枪模块级数&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
