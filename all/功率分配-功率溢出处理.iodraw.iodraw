@@ -110,8 +110,8 @@
         <mxCell id="vYcUfczOwzFTgRyH2GBd-29" value="功率可断开新加入&lt;div&gt;模块右侧接触器状态&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="720" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vYcUfczOwzFTgRyH2GBd-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="425" y="868" width="50" height="30" as="geometry" />
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-30" value="功率新加入模块状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="385" y="868" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
