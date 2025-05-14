@@ -28,7 +28,7 @@
         <mxCell id="vYcUfczOwzFTgRyH2GBd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-6" target="vYcUfczOwzFTgRyH2GBd-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vYcUfczOwzFTgRyH2GBd-6" value="B枪不在启动中或测试输出模式；&lt;div&gt;B枪不在充完电2分钟内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vYcUfczOwzFTgRyH2GBd-6" value="1、B枪不在启动中或测试输出模式；&lt;div&gt;2、B枪不在充完电2分钟内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="370" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vYcUfczOwzFTgRyH2GBd-8" target="vYcUfczOwzFTgRyH2GBd-10">
@@ -38,7 +38,7 @@
           <mxGeometry x="345" y="470" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vYcUfczOwzFTgRyH2GBd-10" value="1、B枪功率不满足&lt;div&gt;2、有多余模块&lt;/div&gt;&lt;div&gt;3、本枪已分配级数不足一半&lt;/div&gt;&lt;div&gt;或&lt;/div&gt;&lt;div&gt;1、B枪功率满足&lt;/div&gt;&lt;div&gt;2、有剩余模块&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="580" width="180" height="130" as="geometry" />
+          <mxGeometry x="280" y="580" width="220" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
