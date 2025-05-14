@@ -77,7 +77,7 @@
           <mxGeometry x="275" y="760" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sxoCyRtmRGFFkfU_FidX-21" value="&#xa;&#xa;&lt;span class=&quot;fontstyle0&quot;&gt;1.操作减掉一级模块的左侧&lt;br&gt;接触器断开&lt;br&gt;2.断开接触器后成功后，发&lt;br&gt;送模块电压为0V，电流为&lt;br&gt;1A，并进入等待电压泄放&lt;br&gt;阶段&lt;br&gt;3.2秒超时进入空闲状态&lt;/span&gt; &#xa;&lt;br style=&quot;font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;&quot;&gt;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="880" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
